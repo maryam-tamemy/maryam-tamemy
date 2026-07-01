@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Maryam Tamemy👋
+B.Sc. Digital Media Engineering & Technology student at the German University in Cairo (GUC), 2nd year.
 
-<!--
-**maryam-tamemy/maryam-tamemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: Java · Python · Prolog · Haskell
+Tools: JavaFX · Logisim · PSpice · AutoCAD · NumPy · Matplotlib
+Interests: Software Engineering · Signal Processing · Computer Architecture
 
-Here are some ideas to get you started:
+📌 What I'm Up To
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Working on personal projects to build my portfolio
+🌱 Currently exploring systems programming and signal processing
+💡 Looking for internship opportunities in 2026 
+maryam.tamemy@student.guc.edu.eg
