@@ -1,4 +1,4 @@
-Hi, I'm Maryam Tamemy 👋
+# Hi, I'm Maryam Tamemy 👋
 
 B.Sc. Digital Media Engineering & Technology student at the German University in Cairo (GUC), 2nd year.
 
