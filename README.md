@@ -2,8 +2,8 @@ Hi, I'm Maryam Tamemy 👋
 
 B.Sc. Digital Media Engineering & Technology student at the German University in Cairo (GUC), 2nd year.
 
-**Languages:** Java · Python · Prolog · Haskell
-**Tools:** JavaFX · Logisim · PSpice · AutoCAD · NumPy · Matplotlib
+**Languages:** Java · Python · Prolog · Haskell<br>
+**Tools:** JavaFX · Logisim · PSpice · AutoCAD · NumPy · Matplotlib<br>
 **Interests:** Software Engineering · Signal Processing · Computer Architecture
 
 📌 What I'm Up To
