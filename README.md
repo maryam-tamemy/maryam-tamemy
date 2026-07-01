@@ -12,4 +12,5 @@ B.Sc. Digital Media Engineering & Technology student at the German University in
 - 🌱 Currently exploring systems programming and signal processing
 - 💡 Looking for internship opportunities in 2026
 
-📫 maryam.tamemy@student.guc.edu.eg
+📫 Mariam.hamouda@student.guc.edu.eg
+🔗 https://www.linkedin.com/in/maryam-tamemy
